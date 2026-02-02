@@ -1,5 +1,5 @@
 class Hello:
-    def printHello(self):
+    def printHello(self): # Method
         print("Hello")
 
 
